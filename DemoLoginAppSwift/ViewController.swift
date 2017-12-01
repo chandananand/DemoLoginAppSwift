@@ -91,11 +91,14 @@ class ViewController: UIViewController,UITableViewDataSource,UITableViewDelegate
     }
     
     func tableView(_ tableView: UITableView, heightForRowAt indexPath: IndexPath) -> CGFloat {
-        return 220
+        return 170
     }
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell = tableView.dequeueReusableCell(withIdentifier: "TableViewCell") as! TableViewCell
+        cell.nameLabel.text = nameArray[indexPath.row]
+        cell.descLabel.text = descriptionArray[indexPath.row]
+
         let imgURL = NSURL(string: imgURLArray[indexPath.row])
         if imgURL != nil {
             let data = NSData(contentsOf: (imgURL as URL?)!)
