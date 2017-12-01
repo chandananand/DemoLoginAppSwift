@@ -23,11 +23,11 @@ It provides actors details in the cardView.
 
 ## CardLayout
 
-## Old UI
+## New UI
 
 [![Simulator_Screen_Shot_-_i_Phone_8_Plus_-_2017-12-02_at_00.15.35.png](https://s19.postimg.org/mku99uwoj/Simulator_Screen_Shot_-_i_Phone_8_Plus_-_2017-12-02_at_00.15.35.png)](https://postimg.org/image/6mljjq2gf/)
 
-## New UI
+## Old UI
 
 [![Simulator_Screen_Shot_-_i_Phone_7_Plus_-_2017-11-17_at_14.35.36.png](https://s19.postimg.org/qoe371pc3/Simulator_Screen_Shot_-_i_Phone_7_Plus_-_2017-11-17_at_14.35.36.png)](https://postimg.org/image/5eqgw791b/)
 
