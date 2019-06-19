@@ -19,17 +19,18 @@ It provides actors details in the cardView.
 
 ## logIn Screen
 
-[![Simulator_Screen_Shot_-_i_Phone_7_Plus_-_2017-11-17_at_14.23.36.png](https://s19.postimg.org/lcz6m4l77/Simulator_Screen_Shot_-_i_Phone_7_Plus_-_2017-11-17_at_14.23.36.png)](https://postimg.org/image/t5pue3r67/)
+[![Simulator-Screen-Shot-i-Phone-7-Plus-2017-11-17-at-14-23-36.png](https://i.postimg.cc/RFKrxrN4/Simulator-Screen-Shot-i-Phone-7-Plus-2017-11-17-at-14-23-36.png)](https://postimg.cc/PpXV1RWR)
 
 ## CardLayout
 
 ## New UI
 
-[![Simulator_Screen_Shot_-_i_Phone_8_Plus_-_2017-12-02_at_00.15.35.png](https://s19.postimg.org/mku99uwoj/Simulator_Screen_Shot_-_i_Phone_8_Plus_-_2017-12-02_at_00.15.35.png)](https://postimg.org/image/6mljjq2gf/)
+[![Simulator-Screen-Shot-i-Phone-8-Plus-2017-12-02-at-00-15-35.png](https://i.postimg.cc/W3msZNrv/Simulator-Screen-Shot-i-Phone-8-Plus-2017-12-02-at-00-15-35.png)](https://postimg.cc/DJZVkKBj)
+
 
 ## Old UI
 
-[![Simulator_Screen_Shot_-_i_Phone_7_Plus_-_2017-11-17_at_14.35.36.png](https://s19.postimg.org/qoe371pc3/Simulator_Screen_Shot_-_i_Phone_7_Plus_-_2017-11-17_at_14.35.36.png)](https://postimg.org/image/5eqgw791b/)
+[![Simulator-Screen-Shot-i-Phone-7-Plus-2017-11-17-at-14-35-36.png](https://i.postimg.cc/HsKtXr6v/Simulator-Screen-Shot-i-Phone-7-Plus-2017-11-17-at-14-35-36.png)](https://postimg.cc/XpfF0YS9)
 
 ## Detail Screen
 
